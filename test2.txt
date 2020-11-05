@@ -1,12 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is F8D7-CE1C
-
- Directory of C:\Users\Kapil\Desktop\My Project
-
-11/05/2020  05:00 PM    <DIR>          .
-11/05/2020  05:00 PM    <DIR>          ..
-11/02/2020  06:57 PM                22 index.html
-11/03/2020  03:42 AM                11 test1.txt
-11/05/2020  05:00 PM                 0 test2.txt
-               3 File(s)             33 bytes
-               2 Dir(s)  72,155,115,520 bytes free
+change 1
